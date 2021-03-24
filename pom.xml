@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.igor</groupId>
-	<artifactId>gamer-teste-santander</artifactId>
+	<artifactId>crud-teste-santander</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>gamer-teste-santander</name>
+	<name>crud-teste-santander</name>
 	<description>CRUD project</description>
 	<properties>
 		<java.version>11</java.version>
