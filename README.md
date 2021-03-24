@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/igmelo/crud-spring-santander.svg?style=svg)](https://circleci.com/gh/igmelo/crud-spring-santander)
+
 ## Spring Boot Project connected to MongoDB Atlas
 
 ### CRUD operations
